@@ -13,7 +13,7 @@ export default function App() {
     <main>
       <div>
         <header>
-          <p>HAC Studios</p>
+          <p className="m-0 font-serif">HAC Studios</p>
           {/*design note: push this to the right in subdued font*/}
           <p>Internal planning tool</p>
         </header>
